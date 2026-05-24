@@ -24,7 +24,7 @@ The database is designed to manage:
 
 ---
 
-## Repository Structure
+### Repository Structure
 
 The repository is organized as follows:
 
@@ -48,14 +48,18 @@ Airport-Management-Information-System-CMPE343/
 │   ├── test.png
 │   └── traffic controller.png
 │
-├── 03_Management_Queries.sql
-├── 03_Management_Queries_Organized.pdf
 ├── Airport_Management_Information_System.pdf
+├── DDL.sql
+├── DML.sql
 ├── ER_Diagram.png
+├── Management_Queries.pdf
+├── Management_Queries.sql
+├── QUERIES.sql
+├── README.md
 ├── erd.png
 ├── genel.png
 ├── tablo1.png
 ├── tablo2.png
 ├── tablo3.png
-└── tablo4.png
-└── what_we_did.png
+├── tablo4.png
+└── what_we_did.pdf
