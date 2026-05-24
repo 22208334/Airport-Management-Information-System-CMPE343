@@ -1,7 +1,6 @@
 /*
   CMPE343 Database Management Systems and Programming I
   Airport Management Information System
-  File: 03_Management_Queries.sql
   Description: 15 statistical and relational SQL queries for management reporting.
 */
 
